@@ -10,7 +10,7 @@
     </parent>
 
     <packaging>jar</packaging>
-    <artifactId>monitoring-dto</artifactId>
+    <artifactId>message-analyzer-dto</artifactId>
 
     <dependencies>
         <dependency>
